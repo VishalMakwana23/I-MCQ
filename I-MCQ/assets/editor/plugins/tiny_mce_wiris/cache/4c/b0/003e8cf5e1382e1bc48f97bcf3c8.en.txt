@@ -1,0 +1,1 @@
+{"result":{"text":"square root of j k end root"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"x equals fraction numerator square root of x plus 2 squared end root over denominator 5 a end fraction"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"x equals fraction numerator root index blank of 12 minus a squared end root over denominator 23 end fraction"},"status":"ok"}

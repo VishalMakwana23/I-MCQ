@@ -1,0 +1,1 @@
+{"result":{"text":"Z equals fraction numerator square root of a plus b end root over denominator x squared end fraction"},"status":"ok"}

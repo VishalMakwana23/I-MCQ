@@ -1,0 +1,1 @@
+{"result":{"text":"straight N stack rightwards harpoon over leftwards harpoon straight F with 7 on top"},"status":"ok"}
